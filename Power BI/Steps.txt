@@ -1,0 +1,6 @@
+select power pivot
+there select mange
+then select get external data - where select from other sources
+scroll down {select excel}
+enter the file path - use first rows a column header
+then select the required sheets
