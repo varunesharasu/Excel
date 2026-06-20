@@ -11,3 +11,4 @@ A collection of daily Excel practice files covering formulas, functions, data an
 - Automation using Excel tools
 - Real-world spreadsheet scenarios
 - Realtime Dashboard
+- Project using silcer, pivot table, chart
