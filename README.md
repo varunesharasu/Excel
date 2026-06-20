@@ -10,3 +10,4 @@ A collection of daily Excel practice files covering formulas, functions, data an
 - Pivot tables and charts
 - Automation using Excel tools
 - Real-world spreadsheet scenarios
+- Realtime Dashboard
