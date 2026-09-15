@@ -1,6 +1,6 @@
 # Excel Practice Files
 
-A collection of daily Excel practice files covering formulas, functions, data analysis, dashboards, and automation to improve spreadsheet and data management skills.
+A collection of daily Excel practice files covering formulas, functions, data analysis, dashboards, and automation to improve spreadsheet and data management skill.
 
 ## 📌 Features
 
